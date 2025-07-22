@@ -1,0 +1,29 @@
+h1 {
+   font-size:60px;
+}
+h2 {
+   font-size:45px;
+}
+h3 {
+   font-size:40px;
+}
+p{
+   font-size:35px;
+}
+body{
+   text-align:center;
+   font-family:'Trebuchet MS';
+   background:cyan;
+  
+}
+.righty {
+   float:right;
+   width:400px;
+   height:275px;
+}
+.lefty {
+   float:left;
+   width:400px;
+   height:275px;
+}
+
